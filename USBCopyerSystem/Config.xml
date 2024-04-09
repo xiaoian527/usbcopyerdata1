@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Settings>
+  <SkipEmptyFolder>True</SkipEmptyFolder>
+  <SkipOtherDisk>True</SkipOtherDisk>
+  <firstrun>False</firstrun>
+  <DisableVisualStyle>False</DisableVisualStyle>
+  <filesize>1000</filesize>
+  <blackid>
+  </blackid>
+  <SkipDVD>True</SkipDVD>
+  <EnableDiskDetectedCallback>True</EnableDiskDetectedCallback>
+  <sleep>0</sleep>
+  <SkipLocalDisk>True</SkipLocalDisk>
+  <SkipUDisk>False</SkipUDisk>
+  <autorm>False</autorm>
+  <multirun>False</multirun>
+  <UseBlackDisk>True</UseBlackDisk>
+  <hidemsg>False</hidemsg>
+  <filesizetype>0</filesizetype>
+  <SkipNetworkDisk>True</SkipNetworkDisk>
+  <copynoext>True</copynoext>
+  <autorunhide>False</autorunhide>
+  <WaitCallback>False</WaitCallback>
+  <conflict>0</conflict>
+  <dir>
+  </dir>
+  <blackdisk>
+  </blackdisk>
+  <white>
+  </white>
+  <EnableAllCompletedCallback>True</EnableAllCompletedCallback>
+  <black>
+  </black>
+  <mode>0</mode>
+</Settings>
